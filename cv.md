@@ -1,6 +1,6 @@
 # Olga Tazetdinova
 
-![Olga Tazetdinova profile pictute](/OlgaT.JPG "Olga Tazetdinova profile pictute")
+![Olga Tazetdinova profile pictute](OlgaT.JPG "Olga Tazetdinova profile pictute")
 
 * Phone (408) 324-41-22
 * Email: [olga.tazetdinova@icloud.com](mailto:olga.tazetdinova@icloud.com)
