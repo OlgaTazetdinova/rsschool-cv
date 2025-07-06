@@ -4,13 +4,9 @@
 * Email: [olga.tazetdinova@icloud.com](mailto:olga.tazetdinova@icloud.com)
 * [LinkedIn](https://www.linkedin.com/in/tazetdinova-olga-a1702382/)
 
----
-
 ## About me
 
 Detail-oriented QA Engineer with experience in the software industry. Skilled at writing test cases from specifications, and extremely effective at troubleshooting and problem-solving. Great at interacting positively with customer support analysts and development teams. Patient, dependable, quick learner dedicated to meeting customers' requirements.
-
----
 
 ## Skills & Abilities
 
@@ -33,8 +29,6 @@ Detail-oriented QA Engineer with experience in the software industry. Skilled at
 * Browsers: Firefox, Chrome, Safari
 * Tools: Jira, Confluence, Postman, SoapUI, Swagger, Wireshark, Charles Proxy
 
----
-
 ## Experience
 
 ### QA Engineer
@@ -51,8 +45,6 @@ Detail-oriented QA Engineer with experience in the software industry. Skilled at
 * Mobile app testing on iOS and Android
 * Maintained automated test suites according to API changes
 
----
-
 ### QA Engineer
 
 **Orion Innovation** — *March 2020 – March 2022*
@@ -64,8 +56,6 @@ Detail-oriented QA Engineer with experience in the software industry. Skilled at
 * Logged and tracked defects in JIRA with full documentation
 * Conducted various black box testing types: smoke, functional, non-functional, E2E, API, UAT, regression
 
----
-
 ### HR Business Partner
 
 **Orion Innovation** — *May 2015 – March 2020*
@@ -73,8 +63,6 @@ Detail-oriented QA Engineer with experience in the software industry. Skilled at
 * Bridged HR and business operations
 * Optimized personnel-related processes (recruitment, engagement, training, analytics)
 * Handled non-standard cases (e.g., entering new markets, launching new products)
-
----
 
 ### Quality Engineer
 
@@ -84,14 +72,10 @@ Detail-oriented QA Engineer with experience in the software industry. Skilled at
 * Developed and improved quality standards
 * Certified management systems under international standards
 
----
-
 ## Education
 
 **Bachelor of Science** — *June 2009*
 *State University of Architecture and Civil Engineering*
-
----
 
 ## Activities & Interests
 
